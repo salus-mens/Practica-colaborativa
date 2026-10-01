@@ -1,4 +1,4 @@
 def saludar():
-print("Hola mundo")
+print("Saludos desde el equipo B")
 if __name__ == "__main__":
 saludar()
